@@ -4,6 +4,8 @@ figma: https://www.figma.com/file/pnb466WXmzARDP9uhQ8EQx/My-Website?type=design&
 
 github: https://github.com/monikasrdic/msgamesportfolio
 
+website url: https://monikasrdic.github.io/msgamesportfolio/
+
 
 Game Concept:
 
@@ -14,7 +16,7 @@ Tetromino Klasse -> Formen der Bausteine
 gameboard -> Spielfeld
 Ghost -> Hilfs-Brett
 Piece -> das aktuelle Piece, was der Spieler bewegt
-Data -> Rotationsmöglichkeiten pro Form gespeichert
+Data -> RotationsmÃ¶glichkeiten pro Form gespeichert
 
 Controls:
 A - links bewegen
