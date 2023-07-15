@@ -1,0 +1,24 @@
+Important Links: 
+
+figma: https://www.figma.com/file/pnb466WXmzARDP9uhQ8EQx/My-Website?type=design&node-id=1-41&mode=design
+
+github: https://github.com/monikasrdic/msgamesportfolio
+
+
+Game Concept:
+
+verschiedene Animes als Level, Tetris mit Dialogen aus Anime, verschiedene Features
+Dialoge beeinflussen den Spielverlauf
+
+Tetromino Klasse -> Formen der Bausteine
+gameboard -> Spielfeld
+Ghost -> Hilfs-Brett
+Piece -> das aktuelle Piece, was der Spieler bewegt
+Data -> Rotationsmöglichkeiten pro Form gespeichert
+
+Controls:
+A - links bewegen
+D - rechts bewegen
+Q - links rotieren
+E - rechts rotieren
+space - fallen lassen
